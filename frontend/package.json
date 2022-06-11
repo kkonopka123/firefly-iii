@@ -10,7 +10,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@popperjs/core": "^2.11.2",
+    "@popperjs/core": "^2.11.5",
     "@quasar/extras": "^1.13.5",
     "apexcharts": "^3.32.1",
     "axios": "^0.21.1",
