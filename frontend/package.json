@@ -19,7 +19,7 @@
     "date-fns": "^2.28.0",
     "quasar": "^2.6.6",
     "vue": "3",
-    "vue-i18n": "^9.0.0",
+    "vue-i18n": "^9.2.2",
     "vue-router": "^4.0.0",
     "vue3-apexcharts": "^1.4.1",
     "vuex": "^4.0.1"
