@@ -13,7 +13,7 @@
     "@popperjs/core": "^2.11.2",
     "@quasar/extras": "^1.13.5",
     "apexcharts": "^3.32.1",
-    "axios": "^0.21.1",
+    "axios": "^1.6.3",
     "axios-cache-adapter": "^2.7.3",
     "core-js": "^3.6.5",
     "date-fns": "^2.28.0",
